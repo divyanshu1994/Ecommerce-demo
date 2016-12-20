@@ -34,8 +34,6 @@ router.get('/mykart',function(req,res,next)
         res.json(user);
     });
 
-
-
  });
 
 module.exports=router;
